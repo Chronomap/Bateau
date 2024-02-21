@@ -1,5 +1,5 @@
 # Bateau
-A lopro Minivan case using coriander plates named after the word for "boat" in a romance language? *Surely no one's done that before...*
+A lopro Minivan case using coriander plates with an optional weight/foot named after the word for "boat" in a romance language? *Surely no one's done that before...*
 
 ## Features
 - Low-pro design
