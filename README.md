@@ -1,7 +1,6 @@
 # Bateau
 A lopro Minivan case using coriander plates with an optional weight/foot named after the word for "boat" in a romance language? *Surely no one's done that before...*
 
-<img src="https://github.com/Chronomap/Bateau/blob/main/Images/bateauAngle.jpg" Width="600">
 
 ## Features
 - Low-pro design
