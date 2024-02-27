@@ -22,12 +22,15 @@ All relevant STL and STEP files for production can be found above
 
 If 3D printing, I recommend self-tapping screws. Here's some suggestions from McMaster-Carr
 - M2x5mm Screws for the plate: [here](https://www.mcmaster.com/96817A207/)
-- M2x8mm Screws for the Weight: [here](https://www.mcmaster.com/95893A165/)
+- M2x6mm Screws for the Weight: [here](https://www.mcmaster.com/95893A165/)
+- Depending on your print, generic machine screws may work just fine.
 
-
+## Plates
+Low-pro cases like this look (in my opinion) best with single-layout plates. There are files for thicc single-layout minisub split plates in the [Plates](https://github.com/Chronomap/Bateau/tree/main/Plates) folder. I welcome any additional single-layout plate files anyone finds/designs!
 
 ## QA Notes
-- Design is currently untested
+- Design has only been tested as a resin print from JLC
+- Take care with flexible plates, there isn't a ton of room under the PCB
 - The case's bottom is roughly 3mm thick
 
 TL;DR: Files are provided as is and I accept no liability if they aren't good
