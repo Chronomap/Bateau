@@ -1,6 +1,8 @@
 # Bateau
 A lopro Minivan case using coriander plates with an optional weight/foot named after the word for "boat" in a romance language? *Surely no one's done that before...*
 
+<img src="https://github.com/Chronomap/Bateau/blob/main/Images/bateauAngle.jpg" Width="600">
+
 ## Features
 - Low-pro design
 - Optional weight/foot to give it a typing angle of ~4.5°
@@ -39,3 +41,8 @@ TL;DR: Files are provided as is and I accept no liability if they aren't good
 Use what's in this repository as you see fit, within reason. 
 
 If you build one, shoot me some pics! I'm best contacted on Discord @Chronomap
+
+## Other Photos
+<img src="https://github.com/Chronomap/Bateau/blob/main/Images/bateauTop.jpg" Width="600">
+<img src="https://github.com/Chronomap/Bateau/blob/main/Images/bateauSide.jpg" Width="600">
+
